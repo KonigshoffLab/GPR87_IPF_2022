@@ -6,6 +6,6 @@ Idiopathic Pulmonary Fibrosis (IPF) is a devastating and life-threatening lung d
 
 
 <div align="center">
-<img src=https://github.com/KonigshoffLab/GPR87_IPF_2021/blob/main/figrues/readme.png width = "300" height = "300" alt="图片名称" align=center />
+<img src=https://github.com/KonigshoffLab/GPR87_IPF_2021/blob/main/figrues/readme.png width = "500" height = "600" alt="readme"  />
 </div>
 
