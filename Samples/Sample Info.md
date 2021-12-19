@@ -1,15 +1,3 @@
-<style>
-table th:first-of-type {
-    width: 4cm;
-}
-table th:nth-of-type(2) {
-    width: 150pt;
-}
-table th:nth-of-type(3) {
-    width: 8em;
-}
-</style>
-
 
 | Sample ID |	Age | Disease	| Disease stage |	Smoke | Lobe	| Platform	| Aiming reads	| PCR cycles	| Seq length |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
