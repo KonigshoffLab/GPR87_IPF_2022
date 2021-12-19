@@ -1,4 +1,4 @@
-| Sample ID |	Age | Disease	| Disease stage |	Smoke | Lobe	| Platform	| Aiming reads	| PCR cycles	| Seq length |
+| Sample ID <div style="width: 150pt">|	Age | Disease	| Disease stage |	Smoke | Lobe	| Platform	| Aiming reads	| PCR cycles	| Seq length |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | LTC46	| 66	| Healthy	| NA	| non smoker	| RML	| Illumina® NovaSeq 6000	| 100,000 reads/cell X 10,000 cells/library	| 14	| 2 x150 | 
 | LTC50	| 66	| Healthy	| NA	| non smoker	| Right	| Illumina® NovaSeq 6000	| 100,000 reads/cell X 10,000 cells/library	| 14	| 2 x150 | 
