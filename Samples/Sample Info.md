@@ -1,3 +1,9 @@
+<style>
+table th:first-of-type {
+    
+	width: 100px;
+}
+</style>
 
 | Sample ID |	Age | Disease	| Disease stage |	Smoke | Lobe	| Platform	| Aiming reads	| PCR cycles	| Seq length |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
