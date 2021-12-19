@@ -1,5 +1,5 @@
 
-<div align='center' ><font size='70'> <center> Sample Information Table </font></div>
+### <div align='center' ><font size='70'> <center> Sample Information Table </font></div>
 
   
 | Sample ID |	Age | Disease	| Disease Stage |	Smoke | Lobe	| Platform	| Aiming Reads	| PCR Cycles	| Seq Length |
