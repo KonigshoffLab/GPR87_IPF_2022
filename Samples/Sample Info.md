@@ -1,4 +1,4 @@
-
+<center># 实习总结报告</center>
 
 <div align='center' ><font size='70'> <center> Sample Information Table </font></div>
 
