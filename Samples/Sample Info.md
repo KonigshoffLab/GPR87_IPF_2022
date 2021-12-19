@@ -1,7 +1,7 @@
-<center># 实习总结报告</center>
 
 <div align='center' ><font size='70'> <center> Sample Information Table </font></div>
 
+  
 | Sample ID |	Age | Disease	| Disease Stage |	Smoke | Lobe	| Platform	| Aiming Reads	| PCR Cycles	| Seq Length |
 | :------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | LTC46 |66| Healthy	| NA	| non smoker	| RML	| Illumina® NovaSeq 6000	| 100,000 reads/cell X 10,000 cells/library	| 14	| 2 x150 | 
