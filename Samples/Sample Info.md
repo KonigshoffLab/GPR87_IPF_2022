@@ -1,3 +1,7 @@
+table th {
+    white-space: nowrap; /*表头内容强制在一行显示*/
+}
+
 ### <center> Sample Information Table </center>
 
 | Sample ID |	Age | Disease	| Disease stage |	Smoke | Lobe	| Platform	| Aiming reads	| PCR cycles	| Seq length |
