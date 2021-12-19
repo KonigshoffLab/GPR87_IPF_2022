@@ -1,4 +1,4 @@
-### sample information
+### <center> Sample Information Table </center>
 
 | Sample ID |	Age | Disease	| Disease stage |	Smoke | Lobe	| Platform	| Aiming reads	| PCR cycles	| Seq length |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
