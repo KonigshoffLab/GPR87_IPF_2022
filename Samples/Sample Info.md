@@ -1,9 +1,4 @@
-<style>
-table th:first-of-type {
-    
-	width: 100px;
-}
-</style>
+### sample information
 
 | Sample ID |	Age | Disease	| Disease stage |	Smoke | Lobe	| Platform	| Aiming reads	| PCR cycles	| Seq length |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
