@@ -1,10 +1,7 @@
-table th {
-    white-space: nowrap; /*表头内容强制在一行显示*/
-}
 
 ### <center> Sample Information Table </center>
 
-| Sample ID |	Age | Disease	| Disease stage |	Smoke | Lobe	| Platform	| Aiming reads	| PCR cycles	| Seq length |
+| Sample ID |	Age | Disease	| Disease Stage |	Smoke | Lobe	| Platform	| Aiming Reads	| PCR Cycles	| Seq Length |
 | :------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | LTC46 |66| Healthy	| NA	| non smoker	| RML	| Illumina® NovaSeq 6000	| 100,000 reads/cell X 10,000 cells/library	| 14	| 2 x150 | 
 | LTC50	|66| Healthy	| NA	| non smoker	| Right	| Illumina® NovaSeq 6000	| 100,000 reads/cell X 10,000 cells/library	| 14	| 2 x150 | 
