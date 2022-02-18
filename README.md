@@ -24,3 +24,4 @@ __3.	Lun AT, McCarthy DJ, Marioni JC. A step-by-step workflow for low-level anal
 *4.	Wolock SL, Lopez R, Klein AM. Scrublet: Computational Identification of Cell Doublets in Single-Cell Transcriptomic Data. Cell Syst 2019: 8(4): 281-291 e289. *  <br> 
 *5.	Polanski K, Young MD, Miao Z, Meyer KB, Teichmann SA, Park JE. BBKNN: fast batch alignment of single cell transcriptomes. Bioinformatics 2020: 36(3): 964-965. *  <br>
 </p>
+_3.	Lun AT, McCarthy DJ, Marioni JC. A step-by-step workflow for low-level analysis of single-cell RNA-seq data with Bioconductor. F1000Res 2016: 5: 2122. _  <br> 
